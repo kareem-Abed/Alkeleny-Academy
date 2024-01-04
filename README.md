@@ -2,14 +2,14 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a>
     <img src="https://github.com/kareem-Abed/Alkeleny-Academy/assets/130121946/62446f4d-8454-472b-a2cf-4ca502a7fc91" alt="Logo" width="190" height="210">
   </a>
 
   <h3 align="center">Alkeleny Academy</h3>
 
   <p align="center">
-  a powerful Flutter application revolutionizing the management of private lessons.
+  A powerful Flutter application revolutionizing the management of private lessons.
   </p>
 </div>
 
@@ -36,24 +36,39 @@ GetX is employed for state management, guaranteeing a smooth and responsive user
 - getx state management
 
 <!-- USAGE EXAMPLES -->
-## Usage
-<br />
-<div align="center">
+## photos
 
-</div>
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+<br />
+
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px;">
 <img src="splash.jpeg" width="200" >
 <img src=" (10).jpeg" width="200" >
-<img src=" (11).jpeg" width="200" >
-<img src=" (8).jpeg" width="200" >
-<img src=" (7).jpeg" width="200" >
+<img src="(11).jpeg" width="200" >
+<img src="(12).jpeg" width="200" >
+  
+
+
 <img src=" (6).jpeg" width="200" >
+<img src=" (7).jpeg" width="200" >
+
 <img src=" (1).jpeg" width="200" >
  <img src=" (9).jpeg" width="200" >
-  <img src=" (3).jpeg" width="200" >
-
+ 
   <img src=" (8).jpeg" width="200" >
+  <img src=" (2).jpeg" width="200" >
+  
+  <img src=" (3).jpeg" width="200" >
+   <img src=" (4).jpeg" width="200" >
+    <img src=" (5).jpeg" width="200" >
+  
 </div>
+## Video
+<div align="center">
+<video width="630" height="300" src="https://github.com/kareem-Abed/Alkeleny-Academy/assets/130121946/089a2aff-501a-4a4b-a00c-70d03d9d6d14"></video>
+
+</div>
+
+
 
 
 
@@ -65,8 +80,7 @@ GetX is employed for state management, guaranteeing a smooth and responsive user
 [![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kareem-Abed)
 [![Email](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ka7032799@gmail.com)
 
-
-
+<br /><br /><br /><br />
 
 
 
