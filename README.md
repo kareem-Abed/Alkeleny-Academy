@@ -41,7 +41,19 @@ GetX is employed for state management, guaranteeing a smooth and responsive user
 <div align="center">
 
 </div>
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+<img src="splash.jpeg" width="200" >
+<img src=" (10).jpeg" width="200" >
+<img src=" (11).jpeg" width="200" >
+<img src=" (8).jpeg" width="200" >
+<img src=" (7).jpeg" width="200" >
+<img src=" (6).jpeg" width="200" >
+<img src=" (1).jpeg" width="200" >
+ <img src=" (9).jpeg" width="200" >
+  <img src=" (3).jpeg" width="200" >
 
+  <img src=" (8).jpeg" width="200" >
+</div>
 
 
 
