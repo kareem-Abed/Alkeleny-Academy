@@ -69,15 +69,12 @@ GetX is employed for state management, guaranteeing a smooth and responsive user
 </div>
 
 
-
-
-
-
-
 <!-- CONTACT -->
 ## Contact
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kareem-ahmed-920236244)
+<br />
 [![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kareem-Abed)
+<br />
 [![Email](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ka7032799@gmail.com)
 
 <br /><br /><br /><br />
