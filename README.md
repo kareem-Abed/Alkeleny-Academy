@@ -2,6 +2,7 @@
 # Alkeleny Academy Management App
 
 ![App Logo](path/to/your/logo.png)
+![App Logo](https://github.com/kareem-Abed/Alkeleny-Academy/assets/130121946/e60b2ffd-66d4-4cc6-b9e8-32a031cefb09)
 
 ## Overview
 
