@@ -62,7 +62,11 @@ GetX is employed for state management, guaranteeing a smooth and responsive user
     <img src=" (5).jpeg" width="200" >
   
 </div>
+
 ## Video
+
+<br >
+
 <div align="center">
 <video width="630" height="300" src="https://github.com/kareem-Abed/Alkeleny-Academy/assets/130121946/089a2aff-501a-4a4b-a00c-70d03d9d6d14"></video>
 
